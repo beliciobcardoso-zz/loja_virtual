@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353349838833",
+    "firebase_url": "https://loja-virtual-belloinfo.firebaseio.com",
+    "project_id": "loja-virtual-belloinfo",
+    "storage_bucket": "loja-virtual-belloinfo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353349838833:android:cef26c67839836daad4650",
+        "android_client_info": {
+          "package_name": "br.com.belloinfo.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353349838833-j2vvr4d8kpcudh269s477unl72hm5c5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgj5ERcs-t5EkZk6YFp9QMgNtiyxm2QwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353349838833-j2vvr4d8kpcudh269s477unl72hm5c5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
