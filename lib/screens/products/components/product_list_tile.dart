@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:loja_virtual/models/product.dart';
 
 class ProductListTile extends StatelessWidget {
-  // ignore: prefer_const_constructors_in_immutables
-  ProductListTile(this.product);
+  const ProductListTile(this.product);
 
   final Product product;
 

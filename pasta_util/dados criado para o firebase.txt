@@ -1,0 +1,12 @@
+description: Camiseta de algodão
+name:Camiseta vermelha
+images:
+https://img.elo7.com.br/product/original/17B8349/camiseta-vermelha-basica-100-algodao-camisa-algodao.jpg
+https://d26lpennugtm8s.cloudfront.net/stores/154/284/products/gola_v_vermelha_costas-0e8a1e197f9eaf829315122856208601-1024-1024.jpg
+
+
+description: Camiseta de algodão
+name:Camiseta preta
+images:
+https://atacadodecamisetas.com.br/273-large_default/camiseta-preta-masculina.jpg
+https://http2.mlstatic.com/camisa-camiseta-preta-os-simpsons-09-D_NQ_NP_612094-MLB28330384822_102018-O.jpg
